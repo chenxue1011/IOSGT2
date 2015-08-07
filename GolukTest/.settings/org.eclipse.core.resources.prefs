@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//testCase/HotVideoTest.py=utf-8
+encoding//testCase/PlayIPCEmergencyVideoTest.py=utf-8
+encoding//testCase/PlayIPCFavoriteVideoTest.py=utf-8
+encoding//testCase/PlayIPCLoopVideoTest.py=utf-8
+encoding//testCase/PlayLocalEmergencyVideoTest.py=utf-8
+encoding//testCase/PlayLocalFavoriteVideoTest.py=utf-8
+encoding//testCase/PlayLocalLoopVideoTest.py=utf-8
+encoding//testCase/PreviewTest.py=utf-8
+encoding//testCase/ShareEmergencyVideoTest.py=utf-8
+encoding//testCase/ShareFavoriteVideoTest.py=utf-8
+encoding//testCase/TakeFavoriteVideoTest.py=utf-8
+encoding//testCase/VideoSquareTest.py=utf-8
